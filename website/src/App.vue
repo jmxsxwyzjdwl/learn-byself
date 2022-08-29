@@ -1,6 +1,6 @@
 <template>
     <div>
-        超星数图？？
+        spuer-ui库
         <br>
         <br>
         <br>
