@@ -17,5 +17,5 @@
   "scripts": {
     "test": "node ./__tests__/dialog.test.js"
   },
-  "gitHead": "208254d3e620d42a803178abd4113bf1137f0a3f"
+  "gitHead": "ba4b012faefadac2bca0c9584c7f627a11c95e44"
 }
