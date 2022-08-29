@@ -31,3 +31,7 @@ yarn add webpack webpack-cli webpack-dev-server vue-loader@next @vue/compiler-sf
 
 yarn add babel-loader @babel/core @babel/preset-env @babel/preset-typescript babel-plugin-module-resolver url-loader file-loader html-webpack-plugin css-loader 
 style-loader less-loader less -D -W
+
+### 发包
+
+npx lerna publish from-package

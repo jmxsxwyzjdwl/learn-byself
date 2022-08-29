@@ -1,6 +1,6 @@
 {
   "name": "root",
-  "private": true,
+  "private": false,
   "version": "1.0.0",
   "license": "MIT",
   "author": "wangtao <815668523@qq.com>",
