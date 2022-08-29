@@ -1,6 +1,7 @@
 {
   "name": "@cx-ui/dialog",
   "version": "0.0.1",
+  "private": false,
   "description": "> TODO: description",
   "author": "wangtao <815668523@qq.com>",
   "homepage": "",
@@ -16,5 +17,5 @@
   "scripts": {
     "test": "node ./__tests__/dialog.test.js"
   },
-  "gitHead": "b8773e604924fb4b8ae7abc65ebad50ae4de6e53"
+  "gitHead": "208254d3e620d42a803178abd4113bf1137f0a3f"
 }
