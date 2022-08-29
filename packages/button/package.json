@@ -1,0 +1,17 @@
+{
+    "name": "@cx-ui/button",
+    "version": "0.0.1",
+    "license": "MIT",
+    "private": false,
+    "description": "TODO: description",
+    "author": "wangtao <815668523@qq.com>",
+    "main": "src/button.vue",
+    "directories": {
+      "lib": "src"
+    },
+    "files": [
+      "src"
+    ],
+    "gitHead": "ba4b012faefadac2bca0c9584c7f627a11c95e44"
+  }
+  
