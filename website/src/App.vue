@@ -1,6 +1,6 @@
 <template>
     <div>
-        超星
+        超星数图
         <br>
         <br>
         <br>
